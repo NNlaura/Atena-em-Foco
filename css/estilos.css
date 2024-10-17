@@ -71,6 +71,7 @@ figure{
     border-radius: 20px;
     border: 5px solid #86692f;
     background-color: #ddc79e;
+    display: flex;
 }
 
 figcaption{
